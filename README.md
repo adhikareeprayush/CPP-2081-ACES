@@ -19,7 +19,8 @@
 - Write and run a basic C++ program
 - Compare simple C vs. C++ code structure
 
-**Day 1/2 Slides:** [Click Here](https://www.figma.com/slides/GDxk45QC8EFq27Rng46ogK/CPP-ACES?node-id=1-25&t=LVOcI8dKBrunFvTL-1)
+**Day 1/2 Slides:** 
+- [Click Here](https://www.figma.com/slides/GDxk45QC8EFq27Rng46ogK/CPP-ACES?node-id=1-25&t=LVOcI8dKBrunFvTL-1)
 ---
 
 ### 🟢 **Day 2 – C++ Language Fundamentals**
@@ -43,7 +44,8 @@
 - Create a calculator using conditionals and loops
 - Use I/O manipulators for formatting output
 
-**Day 1/2 Slides:** [Click Here](https://www.figma.com/slides/GDxk45QC8EFq27Rng46ogK/CPP-ACES?node-id=1-25&t=LVOcI8dKBrunFvTL-1)
+**Day 1/2 Slides:** 
+- [Click Here](https://www.figma.com/slides/GDxk45QC8EFq27Rng46ogK/CPP-ACES?node-id=1-25&t=LVOcI8dKBrunFvTL-1)
 ---
 
 ### 🟢 **Day 3 – Functions & Arrays**
