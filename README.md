@@ -68,6 +68,9 @@
 - Pass arrays to functions
 - Reverse a string using pointer arithmetic
 
+**Day 3 Slides:** (Click Here)[https://www.figma.com/deck/Ieba5luhmsgCKYtCliKHX5/CPP-ACES-Day-3?node-id=19-184&p=f&t=ynn3oqwN8dj5BA6Y-0&scaling=min-zoom&content-scaling=fixed&page-id=0:1]
+---
+
 ---
 
 ### 🟢 **Day 4 – Classes and Objects**
