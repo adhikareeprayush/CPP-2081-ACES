@@ -173,3 +173,14 @@
 - Mini Project Suggestion: **Student Report Card Generator** or **Inventory Management**
 
 ---
+
+## Certification Task
+
+- Code Push: Raise Pull Request for the code till day 7 to (this repo)[https://github.com/adhikareeprayush/CPP-ACES-2081-SUBMISSIONS.git] 
+- Format: 
+    - BCT: Raise PR in BCT folder, Rename your folder on your name For eg. `prayush`  
+    - BEI: Raise PR in BEI folder, Rename your folder on your name For eg. `prayush`  
+- Mini Project Submission:
+    - Submit the mini project in the same repo by raising another PR.
+    - Create `project` folder inside your folder and put the project there.
+    
