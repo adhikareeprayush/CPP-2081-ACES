@@ -1,7 +1,7 @@
 # Day 6 – Operator Overloading & File I/O
 
 ## Objectives
-- Understand and钞operator overloading in C++.
+- Understand and operator overloading in C++.
 - Learn to handle basic file operations for reading and writing data.
 
 ## Topics Covered
